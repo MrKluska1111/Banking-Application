@@ -1,0 +1,47 @@
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.Login.resources
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.SplashScreenForm.resources
+C:\Users\Kamil\Desktop\BankingApp\BankingApp\obj\Debug\BankingApp.MainForm.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Login.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.MainForm.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.SplashScreenForm.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlCreatingAccount.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlAccountInfo.resources
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlWithdrawPayment.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlAccountInfo.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlCreatingAccount.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlWithdrawPayment.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Login.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.MainForm.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.SplashScreenForm.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlTransfer.resources
+C:\Users\Kamil\Desktop\kurs Windows Forms Application\C# podstawy\PROSTE PROJEKTY\BankingApp ADO.NET\BankingApp\obj\Debug\BankingApp.Custom_controls.ControlTransfer.resources
